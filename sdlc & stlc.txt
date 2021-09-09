@@ -1,0 +1,49 @@
+What SDLC?
+SDLC (Software Development Life Cycle) defines all the standard phases which are involved during the software development process. 
+SDLC life cycle is a process of developing software through a phased manner in the following order
+
+Requirements Gathering
+Design the software
+Build the Software
+Test
+Deployment
+Maintenance.
+
+
+Software Testing Life Cycle (STLC) is the testing process that is executed in a well-planned manner. In the STLC process, various activities are carried out to improve the quality of the product. However, STLC phases only deal with testing and detecting errors but not development itself.
+
+Different companies define different phases in STLC. However, generic Software Test Life Cycle has the following stages.
+
+Requirement Analysis
+Test Planning
+Test Development
+Test Environment Setup
+Test Execution & Closure
+
+
+Parameter	                                   SDLC	                                                                STLC
+Origin	                                    Development Life Cycle	                                         Testing Life Cycle
+
+Objective	                    The main object of SDLC life cycle                                          The only objective of the STLC phase is testing.
+                                        is to complete successful 
+                                    development of the software including 
+                                           testing and other phases.
+
+Requirement Gathering	              In SDLC the business analyst                                               In STLC, the QA team analyze requirement 
+                                      gathers the requirements and                                               documents like functional and non-functional
+                                         create Development Plan                                                 documents and create System Test Plan
+
+High & Low-Level Design	             In SDLC, the development team creates the high                              In STLC, the test analyst creates the 
+                                                                                                                 Integration Test Plan
+
+Coding	                             The real code is developed,                                                 The testing team prepares the test environment 
+                                    and actual work takes place as per the                                               and executes them
+                                            design documents.
+                                    
+                                        	
+Maintenance                         SDLC phase also includes post-deployment                                     Testers, execute regression suits,
+                                            supports and updates.                                                   usually automation scripts to check 
+                                                                                                                           maintenance code deployed.
+                                                                                                       	
+                                                
+                                      	

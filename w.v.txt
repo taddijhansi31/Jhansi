@@ -1,0 +1,69 @@
+The Waterfall Model was the first Process Model to be introduced. It is also referred to as a linear-sequential life cycle model. 
+It is very simple to understand and use. 
+In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.
+
+The Waterfall model is the earliest SDLC approach that was used for software development.
+
+The waterfall Model illustrates the software development process in a linear sequential flow. 
+This means that any phase in the development process begins only if the previous phase is complete. In this waterfall model, the phases do not overlap.
+
+
+advantages of the Waterfall Model:
+
+Simple and easy to understand and use
+
+Easy to manage due to the rigidity of the model. Each phase has specific deliverables and a review process.
+
+Phases are processed and completed one at a time.
+
+Works well for smaller projects where requirements are very well understood.
+
+Clearly defined stages.
+
+Well understood milestones.
+
+Easy to arrange tasks.
+
+Process and results are well documented.
+
+
+disadvantages of the Waterfall Model:
+
+No working software is produced until late during the life cycle.
+
+High amounts of risk and uncertainty.
+
+Not a good model for complex and object-oriented projects.
+
+Poor model for long and ongoing projects.
+
+It is difficult to measure progress within stages.
+
+
+V-model is the most important model that is used in the process of software testing. 
+It is also known as Verification and Validation Model. It is Introduced by the late Paul Rook in 1980s. 
+V-model is a sequential process in which the next phase begins only after the completion of the present phase. 
+In this model, steps don’t move in a linear way while the steps are bent upwards.
+
+It is similar to Waterfall model because we follow V-model from left to right as well as follow a sequential path of execution of processes like as in waterfall model.
+in waterfall model steps are followed as requirements, design, implementation, verification and finally maintenance. 
+In the same way, the same steps are followed in V-model. So we can say that V-model is the alternate of the waterfall model.
+
+
+Advantages of V-model:
+
+Simple and easy to use.
+Testing activities like planning, test designing happens well before coding. This saves a lot of time. Hence higher chance of success over the waterfall model.
+Proactive defect tracking – that is defects are found at early stage.
+Avoids the downward flow of the defects.
+Works well for small projects where requirements are easily understood.
+
+Disadvantages of V-model:
+
+Very rigid and least flexible.
+Software is developed during the implementation phase, so no early prototypes of the software are produced.
+If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+
+
+
+
