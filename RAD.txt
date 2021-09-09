@@ -1,0 +1,31 @@
+Definition of 'Rapid Application Development'
+
+Definition: The Rapid Application Development (or RAD) model is based on prototyping and iterative model with no (or less) specific planning. In general, RAD approach to software development means putting lesser emphasis on planning tasks and more emphasis on development and coming up with a prototype. In disparity to the waterfall model, which emphasizes meticulous specification and planning, the RAD approach means building on continuously evolving requirements, as more and more learnings are drawn as the development progresses.
+
+Description: RAD puts clear focus on prototyping, which acts as an alternative to design specifications. This means that RAD works well wherever there's a greater focus on user interface rather than non-GUI programs. The RAD model includes agile method and spiral model.
+
+Below phases are in rapid application development (RAD) model:
+
+1. Business modeling: The information flow is identified between different business functions.
+
+2. Data modeling: Information collected from business modeling is used to define data objects that are required for the business.
+
+3. Process modeling: Data objects defined in data modeling are converted to establish the business information flow to achieve some specific business objective process descriptions for adding, deleting, modifying data objects that are given.
+
+4. Application generation: The actual system is created and coding is done by using automation tools. This converts the overall concept, process and related information into actual desired output. This output is called a prototype as it’s still half-baked.
+
+5. Testing and turnover: The overall testing cycle time is reduced in the RAD model as the prototypes are independently tested during every cycle.
+
+Advantages:
+
+	1) Change in requirement can be accepted.
+	2) Progress of project can be measured.
+	3) Components are developed as reuseable which decreases work load.
+	4) Integration from very beginning solves a lot of integration issues.
+
+Dis-Advantages:
+ 
+	1) Complexity in management
+	2) High Modeling Skills are Required
+	3) Projects which can be modularized can be devveloped in RAD Model
+	4) User involvement is required through out the life cycle
